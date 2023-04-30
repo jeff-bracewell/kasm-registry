@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Jeff\'s Repo',
+    description: 'Jeff\'s official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://jeff-bracewell.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/jeff-bracewell/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
