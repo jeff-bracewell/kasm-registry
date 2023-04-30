@@ -5,6 +5,7 @@ const nextConfig = {
     name: 'Jeff\'s Repo',
     description: 'Jeff\'s official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
+    listUrl: 'https://jeff-bracewell.github.io/kasm-registry/',
     contactUrl: 'https://github.com/jeff-bracewell/kasm-registry/issues',
   },
   reactStrictMode: true,
